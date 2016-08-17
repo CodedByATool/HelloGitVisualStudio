@@ -13,6 +13,7 @@ int main()
 	std::cin >> buf;
 	
 	std::cout << "Change by some other guy on another computer! (probably sucks)" << std::endl;
+	std::cout << "A second local commit" << std::endl;
     return 0;
 }
 
