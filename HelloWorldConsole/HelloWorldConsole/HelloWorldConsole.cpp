@@ -14,6 +14,9 @@ int main()
 	
 	std::cout << "Change by some other guy on another computer! (probably sucks)" << std::endl;
 	std::cout << "A second local commit" << std::endl;
-    return 0;
+    
+	
+	std::cout << "A change made on mylocalbranch" << std::endl;
+	return 0;
 }
 
