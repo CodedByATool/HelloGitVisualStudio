@@ -12,6 +12,7 @@ int main()
 	std::cout << "(Enter any text to continue)" << std::endl;
 	std::cin >> buf;
 	
+	std::cout << "Change by some other guy on another computer! (probably sucks)" << std::endl;
     return 0;
 }
 
