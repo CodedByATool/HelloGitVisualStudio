@@ -17,6 +17,7 @@ int main()
     
 	
 	std::cout << "A change made on mylocalbranch" << std::endl;
+	std::cout << "Another change made on mylocalbranch after the pull request was accepted" << std::endl;
 	return 0;
 }
 
